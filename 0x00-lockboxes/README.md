@@ -1,8 +1,4 @@
-<p>
-<img width="260" height="170" src="https://image.flaticon.com/icons/svg/679/679922.svg" align="right" >
-</p>
 
-# :colombia: 0x00. Lockboxes
 
 - Write a function in C that inserts a number into a sorted singly linked list.
 - Prototype: listint_t \*insert_node(listint_t \*\*head, int number);
@@ -27,17 +23,6 @@
 
     `gcc 4.8.4 -Wall -Werror -Wextra and -pedantic`
 
-## Contributing
-
---Santiago Yanguas <br> - Holberton Student
-
-## Versioning
-
-For my learning of Interviews in Holberton School
-
-## Authors
-
----Santiago Yanguas 946@holbertonshcool.com
 
 ## Files
 
